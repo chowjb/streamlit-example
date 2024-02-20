@@ -2,3 +2,6 @@ altair
 pandas
 streamlit
 yfinance
+prophet
+alpaca_trade_api
+alpaca-py
